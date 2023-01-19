@@ -10,10 +10,10 @@ Booooooooooooora<br><br><br><br>
 -Para download do projeto é necessario utilizar:<br>
 git clone https://github.com/guismeiram/SESCON<br><br>
 
--É preciso também utilizar ferramentas edição de código como:<br>
-  .Visual Studio<br>
-  .Sql Server<br>
-  .Visual Studio code(Angular)<br><br>
+É preciso também utilizar ferramentas edição de código como:<br>
+  -Visual Studio<br>
+  -Sql Server<br>
+  -Visual Studio code(Angular)<br><br>
   
 
   
