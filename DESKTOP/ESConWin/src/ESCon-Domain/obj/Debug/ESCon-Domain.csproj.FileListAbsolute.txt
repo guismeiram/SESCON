@@ -1,0 +1,9 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\bin\Debug\ESCon-Domain.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\bin\Debug\ESCon-Domain.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\bin\Debug\CrossCurting.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\bin\Debug\CrossCurting.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\obj\Debug\ESCon-Domain.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\obj\Debug\ESCon-Domain.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\obj\Debug\ESCon-Domain.csproj.CopyComplete
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\obj\Debug\ESCon-Domain.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Domain\obj\Debug\ESCon-Domain.pdb

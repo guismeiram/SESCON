@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AE6FEBC0-8571-499C-B9FF-66467EC4D9AF}</ProjectGuid>
+    <ProjectGuid>{FF0822E1-35D8-4CF2-9FF4-1692146D381F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ESCon_Domain</RootNamespace>
-    <AssemblyName>ESCon-Domain</AssemblyName>
+    <RootNamespace>CrossCurting</RootNamespace>
+    <AssemblyName>CrossCurting</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,30 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Controle.cs" />
-    <Compile Include="Entities\Departamento.cs" />
-    <Compile Include="Entities\Estoque.cs" />
-    <Compile Include="Entities\Fabricantes.cs" />
-    <Compile Include="Entities\Fornecedor.cs" />
-    <Compile Include="Entities\Funcionario.cs" />
-    <Compile Include="Entities\Login.cs" />
-    <Compile Include="Entities\NotaFiscal.cs" />
-    <Compile Include="Entities\Pagamento.cs" />
-    <Compile Include="Entities\Produto.cs" />
-    <Compile Include="Entities\Recebimento.cs" />
-    <Compile Include="Entities\Usuario.cs" />
-    <Compile Include="Entities\Venda.cs" />
+    <Compile Include="BuildingBlocks\Entitys\Entity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Enums\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CrossCurting\CrossCurting.csproj">
-      <Project>{FF0822E1-35D8-4CF2-9FF4-1692146D381F}</Project>
-      <Name>CrossCurting</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

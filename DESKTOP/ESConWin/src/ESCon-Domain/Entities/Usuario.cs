@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Infra
+namespace ESCon_Domain.Entities
 {
-    public class Class1
+    internal class Usuario
     {
     }
 }

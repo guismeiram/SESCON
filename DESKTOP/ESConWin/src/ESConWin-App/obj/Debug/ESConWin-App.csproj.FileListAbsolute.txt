@@ -1,0 +1,10 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\ESConWin-App.exe.config
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\ESConWin-App.exe
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\ESConWin-App.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.SuggestedBindingRedirects.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin_App.Properties.Resources.resources
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.GenerateResource.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.exe
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.pdb

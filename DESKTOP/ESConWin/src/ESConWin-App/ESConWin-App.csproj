@@ -7,7 +7,7 @@
     <ProjectGuid>{9425352C-1B5C-4352-BD44-1E481A3A243C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ESConWin_App</RootNamespace>
-    <AssemblyName>ESConWin_App</AssemblyName>
+    <AssemblyName>ESConWin-App</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

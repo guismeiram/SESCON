@@ -1,0 +1,6 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\bin\Debug\ESCon-Infra.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\bin\Debug\ESCon-Infra.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\obj\Debug\ESCon-Infra.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\obj\Debug\ESCon-Infra.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\obj\Debug\ESCon-Infra.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Infra\obj\Debug\ESCon-Infra.pdb
