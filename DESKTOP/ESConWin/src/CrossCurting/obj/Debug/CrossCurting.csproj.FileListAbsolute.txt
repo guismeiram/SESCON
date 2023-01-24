@@ -1,0 +1,6 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\bin\Debug\CrossCurting.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\bin\Debug\CrossCurting.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\obj\Debug\CrossCurting.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\obj\Debug\CrossCurting.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\obj\Debug\CrossCurting.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\CrossCurting\obj\Debug\CrossCurting.pdb

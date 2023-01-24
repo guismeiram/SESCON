@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Entities
 {
-    public class Estoque : Entity
+    public class Fabricantes : Entity
     {
-        public long Quantidade { get; set; }
+        public long Cod_Fab { get; set; }
+        public string Nome_Fab { get; set; }
     }
 }

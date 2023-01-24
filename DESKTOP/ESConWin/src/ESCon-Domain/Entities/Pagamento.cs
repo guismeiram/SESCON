@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Entities
 {
-    public class Estoque : Entity
+    public class Pagamento : Entity
     {
-        public long Quantidade { get; set; }
+        public int Condigo_Pgmt { get; set; }
+
+        public string Nome_Pgmt { get; set; }
     }
 }

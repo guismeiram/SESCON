@@ -1,0 +1,6 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\bin\Debug\ESCon-Application.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\bin\Debug\ESCon-Application.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\obj\Debug\ESCon-Application.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\obj\Debug\ESCon-Application.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\obj\Debug\ESCon-Application.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-Application\obj\Debug\ESCon-Application.pdb

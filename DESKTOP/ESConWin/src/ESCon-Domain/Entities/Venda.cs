@@ -7,8 +7,11 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Entities
 {
-    public class Estoque : Entity
+    public class Venda : Entity
     {
-        public long Quantidade { get; set; }
+        public int Condigo_Venda { get; set; }
+        public decimal Valor_Total { get; set; }
+        public DateTime Data_Venda { get; set; }
+        
     }
 }

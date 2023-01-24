@@ -42,11 +42,23 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Estoque.cs" />
+    <Compile Include="Entities\Fabricantes.cs" />
+    <Compile Include="Entities\Fornecedor.cs" />
+    <Compile Include="Entities\Funcionario.cs" />
+    <Compile Include="Entities\Pagamento.cs" />
+    <Compile Include="Entities\Produto.cs" />
+    <Compile Include="Entities\Venda.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Enums\" />
     <Folder Include="Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CrossCurting\CrossCurting.csproj">
+      <Project>{FF0822E1-35D8-4CF2-9FF4-1692146D381F}</Project>
+      <Name>CrossCurting</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
