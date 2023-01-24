@@ -41,12 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Controle.cs" />
+    <Compile Include="Entities\Departamento.cs" />
     <Compile Include="Entities\Estoque.cs" />
     <Compile Include="Entities\Fabricantes.cs" />
     <Compile Include="Entities\Fornecedor.cs" />
     <Compile Include="Entities\Funcionario.cs" />
+    <Compile Include="Entities\Login.cs" />
+    <Compile Include="Entities\NotaFiscal.cs" />
     <Compile Include="Entities\Pagamento.cs" />
     <Compile Include="Entities\Produto.cs" />
+    <Compile Include="Entities\Recebimento.cs" />
+    <Compile Include="Entities\Usuario.cs" />
     <Compile Include="Entities\Venda.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
