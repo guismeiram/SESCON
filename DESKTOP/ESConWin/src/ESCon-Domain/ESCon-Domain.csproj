@@ -63,10 +63,12 @@
     <Compile Include="Enums\StatusVenda.cs" />
     <Compile Include="Enums\StausUsuario.cs" />
     <Compile Include="Enums\TipoUser.cs" />
+    <Compile Include="Interfaces\Repository\IVendaRepository.cs" />
+    <Compile Include="Interfaces\Service\IVendaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Interfaces\" />
+    <Folder Include="UoW\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
