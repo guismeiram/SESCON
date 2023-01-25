@@ -54,9 +54,14 @@
     <Compile Include="Entities\Recebimento.cs" />
     <Compile Include="Entities\Usuario.cs" />
     <Compile Include="Entities\Venda.cs" />
-    <Compile Include="Enums\RecebimentoStatus.cs" />
+    <Compile Include="Enums\StatusFuncionario.cs" />
+    <Compile Include="Enums\StatusLogin.cs" />
+    <Compile Include="Enums\StatusNotaFiscal.cs" />
+    <Compile Include="Enums\StatusProduto.cs" />
+    <Compile Include="Enums\StatusRecebimento.cs" />
     <Compile Include="Enums\StatusPagamento.cs" />
     <Compile Include="Enums\StatusVenda.cs" />
+    <Compile Include="Enums\StausUsuario.cs" />
     <Compile Include="Enums\TipoUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
