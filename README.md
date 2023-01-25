@@ -13,7 +13,15 @@ git clone https://github.com/guismeiram/SESCON<br><br>
 É preciso também utilizar ferramentas edição de código como:<br>
   -Visual Studio<br>
   -Sql Server<br>
-  -Visual Studio code(Angular)<br><br>
+  -Visual Studio code(Angular)<br>
+  
+  
+  O que esperar deste projeto:
+    -API ou Varias(microserviços) estou analisando. Mais provavelmente será só uma api com dentro dela.
+    -WebApp(Angular)
+    -Xamarim
+    -Windows Desktop
+    
   
 
   
