@@ -54,10 +54,13 @@
     <Compile Include="Entities\Recebimento.cs" />
     <Compile Include="Entities\Usuario.cs" />
     <Compile Include="Entities\Venda.cs" />
+    <Compile Include="Enums\RecebimentoStatus.cs" />
+    <Compile Include="Enums\StatusPagamento.cs" />
+    <Compile Include="Enums\StatusVenda.cs" />
+    <Compile Include="Enums\TipoUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Enums\" />
     <Folder Include="Interfaces\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
