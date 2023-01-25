@@ -66,9 +66,9 @@
     <Compile Include="Interfaces\Repository\IVendaRepository.cs" />
     <Compile Include="Interfaces\Service\IVendaService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UoW\IUnitOfWork.cs" />
+    <Compile Include="UoW\UnitOfWork.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="UoW\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
