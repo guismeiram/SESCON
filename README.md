@@ -16,11 +16,11 @@ git clone https://github.com/guismeiram/SESCON<br><br>
   -Visual Studio code(Angular)<br>
   
   
-  O que esperar deste projeto:
-    -API ou Varias(microserviços) estou analisando. Mais provavelmente será só uma api com dentro dela.
-    -WebApp(Angular)
-    -Xamarim
-    -Windows Desktop
+  O que esperar deste projeto:<br>
+    -API ou Varias(microserviços) estou analisando. Mais provavelmente será só uma api com dentro dela.<br>
+    -WebApp(Angular)<br>
+    -Xamarim<br>
+    -Windows Desktop<br>
     
   
 
