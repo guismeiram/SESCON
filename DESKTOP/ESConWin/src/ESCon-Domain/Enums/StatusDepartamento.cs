@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Enums
 {
-    public enum StatusProduto
+    public enum StatusDepartamento
     {
     }
 }

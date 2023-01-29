@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Enums
 {
-    internal class TipoUser
+    public enum TipoUser
     {
     }
 }

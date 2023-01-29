@@ -41,19 +41,32 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Banco.cs" />
+    <Compile Include="Entities\BoletoBancario.cs" />
+    <Compile Include="Entities\Cartao.cs" />
+    <Compile Include="Entities\Cliente.cs" />
     <Compile Include="Entities\Controle.cs" />
+    <Compile Include="Entities\Cotacao.cs" />
     <Compile Include="Entities\Departamento.cs" />
-    <Compile Include="Entities\Estoque.cs" />
     <Compile Include="Entities\Fabricantes.cs" />
     <Compile Include="Entities\Fornecedor.cs" />
     <Compile Include="Entities\Funcionario.cs" />
     <Compile Include="Entities\Login.cs" />
     <Compile Include="Entities\NotaFiscal.cs" />
+    <Compile Include="Entities\NotaFiscalDetalhe.cs" />
     <Compile Include="Entities\Pagamento.cs" />
+    <Compile Include="Entities\Pedido.cs" />
+    <Compile Include="Entities\PlanoDeConta.cs" />
     <Compile Include="Entities\Produto.cs" />
     <Compile Include="Entities\Recebimento.cs" />
+    <Compile Include="Entities\Requisicao.cs" />
+    <Compile Include="Entities\Tipo_Pgmt.cs" />
+    <Compile Include="Entities\Unidade.cs" />
     <Compile Include="Entities\Usuario.cs" />
     <Compile Include="Entities\Venda.cs" />
+    <Compile Include="Enums\StatusControle.cs" />
+    <Compile Include="Enums\StatusDepartamento.cs" />
+    <Compile Include="Enums\StatusFabricante.cs" />
     <Compile Include="Enums\StatusFuncionario.cs" />
     <Compile Include="Enums\StatusLogin.cs" />
     <Compile Include="Enums\StatusNotaFiscal.cs" />
@@ -61,7 +74,7 @@
     <Compile Include="Enums\StatusRecebimento.cs" />
     <Compile Include="Enums\StatusPagamento.cs" />
     <Compile Include="Enums\StatusVenda.cs" />
-    <Compile Include="Enums\StausUsuario.cs" />
+    <Compile Include="Enums\StatusUsuario.cs" />
     <Compile Include="Enums\TipoUser.cs" />
     <Compile Include="Interfaces\Repository\IVendaRepository.cs" />
     <Compile Include="Interfaces\Service\IVendaService.cs" />
@@ -69,6 +82,11 @@
     <Compile Include="UoW\IUnitOfWork.cs" />
     <Compile Include="UoW\UnitOfWork.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ESCon-CrossCutting\ESCon-CrossCutting.csproj">
+      <Project>{28E3B094-2C7C-42FE-9BA3-61C122019F59}</Project>
+      <Name>ESCon-CrossCutting</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
