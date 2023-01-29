@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Enums
+namespace ESCon_Domain.Entities
 {
-    public enum StatusProduto
+    internal class BoletoBancario
     {
     }
 }

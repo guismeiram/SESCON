@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Entities
 {
-    internal class Funcionario
+    public class Funcionario
     {
+
     }
 }

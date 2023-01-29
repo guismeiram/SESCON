@@ -1,4 +1,5 @@
-﻿using CrossCurting.BuildingBlocks.Entitys;
+﻿using ESCon_CrossCutting.BuildingBlocks.Entitys;
+using ESCon_Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +12,7 @@ namespace ESCon_Domain.Entities
     {
         public long Cod_Fab { get; set; }
         public string Nome_Fab { get; set; }
+
+        public StatusFabricante StatusFabricante { get; set; }
     }
 }

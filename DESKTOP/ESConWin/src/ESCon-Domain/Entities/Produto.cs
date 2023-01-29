@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Entities
 {
-    internal class Produto
+    public class Produto
     {
     }
 }

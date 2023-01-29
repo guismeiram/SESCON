@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Enums
+namespace ESCon_Domain.Entities
 {
-    internal class StausUsuario
+    public class Tipo_Pgmt
     {
     }
 }
