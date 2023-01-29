@@ -9,6 +9,7 @@ namespace ESCon_Domain.Entities
 {
     public class Funcionario : Entity
     {
+        public int Codigo { get; set; }
 
     }
 }
