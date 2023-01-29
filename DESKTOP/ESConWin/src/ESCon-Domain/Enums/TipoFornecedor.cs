@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Entities
+namespace ESCon_Domain.Enums
 {
-    public class Requisicao
+    public enum TipoFornecedor 
     {
+
     }
 }
