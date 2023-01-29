@@ -21,6 +21,7 @@ git clone https://github.com/guismeiram/SESCON<br><br>
     -WebApp(Angular)<br>
     -Xamarim<br>
     -Windows Desktop<br>
+    -Serviço do Windows(Para pegar dados do Usuario)
     
   
 
