@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_Domain.Interfaces.Repository
 {
-    public interface IVendaRepository
+    internal class ILoginRepository
     {
     }
 }
