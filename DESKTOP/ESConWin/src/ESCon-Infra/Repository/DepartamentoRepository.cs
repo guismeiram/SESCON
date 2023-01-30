@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Interfaces.Repository
+namespace ESCon_Infra.Repository
 {
-    public interface IClienteRepository
+    internal class DepartamentoRepository
     {
     }
 }

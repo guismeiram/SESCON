@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuildingBlocks\Documento\Cnpj.cs" />
     <Compile Include="BuildingBlocks\Documento\Cpf.cs" />
     <Compile Include="BuildingBlocks\Documento\Rg.cs" />
     <Compile Include="BuildingBlocks\Entitys\Entity.cs" />

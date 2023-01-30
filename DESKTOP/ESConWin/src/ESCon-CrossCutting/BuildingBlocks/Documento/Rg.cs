@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_CrossCutting.BuildingBlocks.Documento
 {
-    internal class Rg
+    public static class Rg
     {
     }
 }
