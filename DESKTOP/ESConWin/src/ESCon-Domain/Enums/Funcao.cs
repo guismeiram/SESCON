@@ -1,6 +1,14 @@
 ﻿namespace ESCon_Domain.Entities
 {
-    public class Funcao
+    public enum Funcao
     {
+        Administrador,
+        Operador,
+        Gerente,
+        Diretor,
+        Coordenador,
+        Junior,
+        Pleno,
+        Senior
     }
 }

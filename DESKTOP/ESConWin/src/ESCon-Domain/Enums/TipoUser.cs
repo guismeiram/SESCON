@@ -8,5 +8,8 @@ namespace ESCon_Domain.Enums
 {
     public enum TipoUser
     {
+        Administrador,
+        Operador,
+        Gerente
     }
 }

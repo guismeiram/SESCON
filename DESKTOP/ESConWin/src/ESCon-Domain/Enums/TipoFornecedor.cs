@@ -8,6 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum TipoFornecedor 
     {
-
+        SA,
+        LTDA
     }
 }

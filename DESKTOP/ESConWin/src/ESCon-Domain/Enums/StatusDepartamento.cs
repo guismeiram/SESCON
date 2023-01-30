@@ -8,5 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum StatusDepartamento
     {
+        ATIVO,
+        DESATIVADO
     }
 }

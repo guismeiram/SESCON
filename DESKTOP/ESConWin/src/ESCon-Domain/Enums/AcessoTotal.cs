@@ -1,6 +1,9 @@
 ﻿namespace ESCon_Domain.Entities
 {
-    public class AcessoTotal
+    public enum AcessoTotal
     {
+        Administrador,
+        Operador,
+        Gerente
     }
 }
