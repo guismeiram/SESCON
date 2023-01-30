@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Orcamento.cs" />
     <Compile Include="Enums\AcessoTotal.cs" />
     <Compile Include="Entities\Banco.cs" />
     <Compile Include="Entities\BoletoBancario.cs" />

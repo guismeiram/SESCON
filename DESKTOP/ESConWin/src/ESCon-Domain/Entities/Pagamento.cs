@@ -26,6 +26,12 @@ namespace ESCon_Domain.Entities
         public DateTime VencimentoPgmt { get; set; }
         public DateTime DataPgmt { get; set; }
         public DateTime Data_Cheque_Pgmt { get; set; }
+        public Fornecedor Fornecedor { get; set; }
+        public Tipo_Pgmt Tipo_Pgmt { get; set; }
+        public PlanoDeConta PlanoDeConta { get; set; }
+        public Banco Banco { get; set; }
+
+
         /*codigo: Integer
 -codigo_plano_conta: Integer
 -codigo_tipo_pgto: Integer
