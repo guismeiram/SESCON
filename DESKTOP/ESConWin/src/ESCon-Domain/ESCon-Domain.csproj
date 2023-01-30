@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\AcessoTotal.cs" />
     <Compile Include="Entities\Banco.cs" />
     <Compile Include="Entities\BoletoBancario.cs" />
     <Compile Include="Entities\Cartao.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="Entities\Endereco.cs" />
     <Compile Include="Entities\Fabricantes.cs" />
     <Compile Include="Entities\Fornecedor.cs" />
+    <Compile Include="Enums\Funcao.cs" />
     <Compile Include="Entities\Funcionario.cs" />
     <Compile Include="Entities\Login.cs" />
     <Compile Include="Entities\NotaFiscal.cs" />
