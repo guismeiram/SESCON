@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Interfaces.Service
+namespace ESCon_Infra.Repository
 {
-    internal class IVendaService
+    internal class Repository
     {
     }
 }

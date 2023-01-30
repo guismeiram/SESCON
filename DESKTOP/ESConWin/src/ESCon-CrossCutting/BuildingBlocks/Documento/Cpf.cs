@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESCon_CrossCutting.BuildingBlocks.Documento
 {
-    internal class Cpf
+    public static class Cpf
     {
     }
 }
