@@ -10,6 +10,17 @@ namespace ESCon_Domain.Entities
     public class Funcionario : Entity
     {
         public int Codigo { get; set; }
+        public Guid Codigo_Departamento { get; set; }
+        public string Nome { get; set; }
+        public Login Login { get; set; }
+        public Venda Venda { get; set; }
 
+        /*codigo_departamento: Integer
+-nome: varchar
+-funcao: varchar
+-login: varchar
+-senha: varchar
+-admissao: date
+-acesso_total: char*/
     }
 }
