@@ -8,5 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum StatusProduto
     {
+        ENTREGUE,
+        NAO_ENTREGUE
     }
 }

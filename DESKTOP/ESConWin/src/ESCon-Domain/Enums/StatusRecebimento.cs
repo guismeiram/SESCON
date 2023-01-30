@@ -8,5 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum StatusRecebimento
     {
+        RECEBIDO,
+        NAO_ENTREGUE
     }
 }

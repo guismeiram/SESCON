@@ -8,5 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum StatusVenda
     {
+        VENDIDO,
+        NAO_VENDIDO
     }
 }

@@ -8,5 +8,7 @@ namespace ESCon_Domain.Enums
 {
     public enum StatusNotaFiscal
     {
+        RECBIDO,
+        NÃO_RECEBEU
     }
 }
