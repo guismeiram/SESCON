@@ -31,8 +31,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,6 +50,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Context\DbSescon.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbSescon.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Context\DbSescon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DbSescon.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Entities\Orcamento.cs" />
     <Compile Include="Enums\AcessoTotal.cs" />
     <Compile Include="Entities\Banco.cs" />
@@ -97,6 +116,17 @@
     <Compile Include="Interfaces\Repository\ILoginRepository.cs" />
     <Compile Include="Interfaces\Repository\IVendaRepository.cs" />
     <Compile Include="Interfaces\Repository\IRepository.cs" />
+    <Compile Include="Repository\CartaoRepository.cs" />
+    <Compile Include="Repository\ClienteRepository.cs" />
+    <Compile Include="Repository\ContatoRepository.cs" />
+    <Compile Include="Repository\CotacaoRepository.cs" />
+    <Compile Include="Repository\DepartamentoRepository.cs" />
+    <Compile Include="Repository\EnderecoRepository.cs" />
+    <Compile Include="Repository\FabricanteRepository.cs" />
+    <Compile Include="Repository\FornecedorRepository.cs" />
+    <Compile Include="Repository\FuncionarioRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
+    <Compile Include="Repository\VendaRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UoW\IUnitOfWork.cs" />
     <Compile Include="UoW\UnitOfWork.cs" />
@@ -106,6 +136,31 @@
       <Project>{28E3B094-2C7C-42FE-9BA3-61C122019F59}</Project>
       <Name>ESCon-CrossCutting</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Mapping\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="Context\DbSescon.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DbSescon.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="Context\DbSescon.edmx.diagram">
+      <DependentUpon>DbSescon.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Context\DbSescon.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>DbSescon.Context.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

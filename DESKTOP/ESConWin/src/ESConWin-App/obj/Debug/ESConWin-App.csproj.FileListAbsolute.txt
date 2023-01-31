@@ -8,3 +8,8 @@ G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-A
 G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.CoreCompileInputs.cache
 G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.exe
 G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\EntityFramework.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\EntityFramework.SqlServer.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\EntityFramework.xml
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\bin\Debug\EntityFramework.SqlServer.xml
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESConWin-App\obj\Debug\ESConWin-App.csproj.CopyComplete

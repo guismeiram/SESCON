@@ -1,0 +1,6 @@
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\bin\Debug\ESCon-CrossCutting.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\bin\Debug\ESCon-CrossCutting.pdb
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\obj\Debug\ESCon-CrossCutting.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\obj\Debug\ESCon-CrossCutting.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\obj\Debug\ESCon-CrossCutting.dll
+G:\TRABALHO\FREELA\SESCON\DESKTOP\ESConWin\src\ESCon-CrossCutting\obj\Debug\ESCon-CrossCutting.pdb
