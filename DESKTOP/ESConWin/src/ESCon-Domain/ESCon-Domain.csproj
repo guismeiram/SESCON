@@ -50,16 +50,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Context\DbSescon.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DbSescon.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Context\DbSescon.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DbSescon.edmx</DependentUpon>
-    </Compile>
     <Compile Include="Entities\Orcamento.cs" />
     <Compile Include="Enums\AcessoTotal.cs" />
     <Compile Include="Entities\Banco.cs" />
@@ -138,26 +128,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Context\" />
     <Folder Include="Mapping\" />
-  </ItemGroup>
-  <ItemGroup>
-    <EntityDeploy Include="Context\DbSescon.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>DbSescon.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.Config" />
-    <None Include="Context\DbSescon.edmx.diagram">
-      <DependentUpon>DbSescon.edmx</DependentUpon>
-    </None>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Context\DbSescon.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>DbSescon.Context.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
