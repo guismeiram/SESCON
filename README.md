@@ -17,7 +17,7 @@ git clone https://github.com/guismeiram/SESCON<br><br>
   -Xamarim(Android)<br><br>
   
   O que esperar deste projeto:<br>
-    -API ou Varias(microserviços) estou analisando. Mais provavelmente será só uma api com dentro dela.<br>
+    -API ou Varias(microserviços) estou analisando. Mais provavelmente será só uma api completa.<br>
     -WebApp(Angular)<br>
     -Xamarim<br>
     -Windows Desktop<br>
