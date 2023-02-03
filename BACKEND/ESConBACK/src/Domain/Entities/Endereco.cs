@@ -1,6 +1,6 @@
-﻿using ESCon_CrossCutting.BuildingBlocks.Entitys;
+﻿using CrossCutting.BuildingBlocks.Entitys;
 
-namespace ESCon_Domain.Entities
+namespace Domain.Entities
 {
     public class Endereco : Entity
     {

@@ -1,0 +1,5 @@
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache

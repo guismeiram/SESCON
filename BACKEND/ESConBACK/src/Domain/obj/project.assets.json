@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrossCutting.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../CrossCutting/CrossCutting.csproj",
+      "msbuildProject": "../CrossCutting/CrossCutting.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "CrossCutting >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\guism\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "G:\\TRABALHO\\FREELA\\SESCON\\BACKEND\\ESConBACK\\src\\CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "G:\\TRABALHO\\FREELA\\SESCON\\BACKEND\\ESConBACK\\src\\CrossCutting\\CrossCutting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

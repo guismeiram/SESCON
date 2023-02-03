@@ -1,0 +1,12 @@
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\bin\Debug\net6.0\Infra.deps.json
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\bin\Debug\net6.0\Infra.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\bin\Debug\net6.0\Infra.pdb
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\refint\Infra.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\Infra.pdb
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\Infra\obj\Debug\net6.0\ref\Infra.dll
