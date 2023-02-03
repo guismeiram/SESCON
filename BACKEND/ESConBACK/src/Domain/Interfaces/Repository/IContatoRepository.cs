@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Interfaces.Repository
+namespace Domain.Interfaces.Repository
 {
     internal interface IContatoRepository
     {

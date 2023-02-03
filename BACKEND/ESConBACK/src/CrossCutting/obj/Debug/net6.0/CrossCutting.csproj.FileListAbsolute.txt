@@ -1,0 +1,12 @@
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\bin\Debug\net6.0\CrossCutting.deps.json
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\bin\Debug\net6.0\CrossCutting.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\bin\Debug\net6.0\CrossCutting.pdb
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.csproj.AssemblyReference.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.AssemblyInfoInputs.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.AssemblyInfo.cs
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.csproj.CoreCompileInputs.cache
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\refint\CrossCutting.dll
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\CrossCutting.pdb
+G:\TRABALHO\FREELA\SESCON\BACKEND\ESConBACK\src\CrossCutting\obj\Debug\net6.0\ref\CrossCutting.dll

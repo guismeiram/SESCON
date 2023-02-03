@@ -1,12 +1,12 @@
-﻿using ESCon_CrossCutting.BuildingBlocks.Entitys;
-using ESCon_Domain.Enums;
+﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_Domain.Entities
+namespace Domain.Entities
 {
     public class Cliente : Entity
     {
@@ -23,8 +23,7 @@ namespace ESCon_Domain.Entities
         public TipoUser TipoUsers { get; set; }
         public string Cnpj { get; set; }
         public string Referencia { get; set; }
-        public string Email { get; set; }
-        public string Fone_Referencia { get; set; }
+        public Contato Contato { get; set; }
         public Recebimento Recebimentos {get;set;}
         public Cartao Cartao { get; set; }
         public Venda Venda { get; set; }

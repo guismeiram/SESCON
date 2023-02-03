@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ESCon_CrossCutting.BuildingBlocks.Entitys
+namespace CrossCutting.BuildingBlocks.Entitys
 {
     public abstract class Entity
     {

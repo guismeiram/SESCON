@@ -1,7 +1,7 @@
-﻿using ESCon_CrossCutting.BuildingBlocks.Entitys;
+﻿using CrossCutting.BuildingBlocks.Entitys;
 using System;
 
-namespace ESCon_Domain.Entities
+namespace Domain.Entities
 {
     public class NotaFiscalEntrada : Entity
     {

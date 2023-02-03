@@ -1,4 +1,4 @@
-﻿namespace ESCon_Domain.Entities
+﻿namespace Domain.Entities
 {
     public enum AcessoTotal
     {
