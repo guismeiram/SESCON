@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 
 namespace Domain.Entities
@@ -16,6 +17,6 @@ namespace Domain.Entities
         public double Total { get; set; }
 
         public Produto Produto { get; set; }
-
+        public StatusNotaFiscal StatusNotaFiscal { get; set; }
     }
 }

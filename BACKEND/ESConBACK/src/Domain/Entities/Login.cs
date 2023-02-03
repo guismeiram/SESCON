@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +16,7 @@ namespace Domain.Entities
         public DateTime Adminissao { get; set; }
         public AcessoTotal AcessoTotal { get; set; }
         public Funcionario Funcionario { get; set; }
+        public StatusLogin StatusLogin { get; set; }
 
         /*-funcao: varchar
 -login: varchar

@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +31,7 @@ namespace Domain.Entities
         public Tipo_Pgmt Tipo_Pgmt { get; set; }
         public PlanoDeConta PlanoDeConta { get; set; }
         public Banco Banco { get; set; }
+        public StatusPagamento StatusPagamento{ get; set; }
 
 
         /*codigo: Integer
