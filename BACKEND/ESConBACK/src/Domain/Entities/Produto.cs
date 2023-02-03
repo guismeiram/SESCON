@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,12 +29,14 @@ namespace Domain.Entities
         public double Valor_Venda { get; set; }
         public int Estoque_Produto { get; set; }
         public int Critico_Produto { get; set; }
-        public NotaFiscalDetalhe NotaFiscalDetalhe { get; set; }
+        public NotaFiscalEntrada NotaFiscalEntrada { get; set; }
         public Unidade Unidade { get; set; }
         public Requisicao Requisicao { get; set; }
         public Controle Controle { get; set; }
         public Venda Venda { get; set; }
-        public Orcamento Orcamento { get; set; }
+        //public Orcamento Orcamento { get; set; }
+
+        public StatusProduto StatusProduto { get; set; }
 
     }
 }

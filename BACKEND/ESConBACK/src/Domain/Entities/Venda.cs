@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,6 +26,8 @@ namespace Domain.Entities
         public int Num_Parcelas { get; set; }
         public double Vlr_Unit_Venda { get; set; }
         public int Quantidade { get; set; }
+
+        public StatusVenda StatusVenda { get; set; }
         /*codigo: int
 -codigo_funcionario: Integer
 -codigo_cartao: Integer

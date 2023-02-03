@@ -1,4 +1,5 @@
 ﻿using CrossCutting.BuildingBlocks.Entitys;
+using Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace Domain.Entities
         public string Nome { get; set; }
         public Login Login { get; set; }
         public Venda Venda { get; set; }
-
+        public StatusFuncionario StatusFuncionario { get; set; }
         /*codigo_departamento: Integer
 -nome: varchar
 -funcao: varchar
